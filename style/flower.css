@@ -1,0 +1,19 @@
+/* banner-title style */
+.banner-text{
+    color: #272727;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    width: 708px;
+    margin: 200px 1000px 350px 250px;
+    background: rgba(229, 84, 115, 0.10); 
+    
+}
+.section-text{
+    margin: 32px 1046px 32px 250px;
+}
+.top-flower-style{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
