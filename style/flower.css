@@ -37,3 +37,43 @@ font-style: normal;
 font-weight: 800;
 
 }
+/* section six */
+.title-text style{
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 128px 862px;
+
+}
+/* section two */
+.images{
+    display: flex;
+}
+.section-two-title{
+    text-align: center;
+}
+.caption-text{
+    display: flex;
+    gap: 80px;
+    text-decoration: underline;
+}
+.section seven title style{
+    text-align: center;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+.title style for shop{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+
+}
+
+    
+}
